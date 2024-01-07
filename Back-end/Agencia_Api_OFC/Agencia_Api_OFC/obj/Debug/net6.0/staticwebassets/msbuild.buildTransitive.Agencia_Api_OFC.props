@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Agencia_Api_OFC.props" />
+</Project>
